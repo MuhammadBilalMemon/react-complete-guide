@@ -2,7 +2,7 @@ import React from "react";
 
 // * Components
 import ExpenseDate from "./ExpenseDate";
-import Card from "./Card";
+import Card from "../UI/Card";
 
 // * Styles
 import "./ExpenseItem.css";
